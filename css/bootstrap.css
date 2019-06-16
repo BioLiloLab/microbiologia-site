@@ -1379,11 +1379,11 @@ html {
 }
 
 body {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 1.714;
-  color: #999;
-  background-color: #fff;
+  color: #191562;
+  background-color: #F0E8D0;
 }
 
 input,
