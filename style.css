@@ -648,7 +648,7 @@ img.aligncenter {
 }
 
 .bg-dark2 {
-  background-color: #363636;
+  background-color: #78F1A8;
 }
 
 .bg-dark3 {
@@ -660,7 +660,7 @@ img.aligncenter {
 }
 
 .border-top {
-  border-top: 1px solid #eee;
+  border-top: 1px solid #78F1A8;
 }
 
 .bg-img-full {
@@ -977,14 +977,14 @@ button,
 	4. Main heading styles   /   .main-heading
 -------------------------------------------------------------------*/
 .main-heading {
-  font: 18px/28px "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 400 18px/28px "Open Sans", sans-serif;
 }
 
 .main-heading .heading {
-  color: #363636;
+  color: #191562;
   margin: 0 0 23px;
   letter-spacing: -1.5px;
-  font: 500 36px/47px "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 800 36px/47px "Open Sans", sans-serif;
 }
 
 .main-heading p {
@@ -1006,7 +1006,7 @@ button,
 .page-header .heading {
   margin: 0;
   letter-spacing: -3px;
-  font: 500 75px/96px "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 500 75px/96px "Open Sans", sans-serif;
 }
 
 /*------------------------------------------------------------------
@@ -1109,7 +1109,7 @@ button,
   left: 0;
   right: 0;
   position: fixed;
-  background: #fafafa;
+  background: #AA58C6;
   -webkit-box-shadow: 0 0 25px rgba(0, 0, 0, 0.08);
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.08);
 }
@@ -1131,7 +1131,7 @@ button,
 }
 
 #header.sticky .header-holder #nav a {
-  color: #999;
+  color: #191562;
 }
 
 #header .holder {
@@ -1536,7 +1536,7 @@ button,
   z-index: 1;
   color: #fff;
   position: relative;
-  font: 300 20px/34px "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 400 20px/34px "Open Sans", sans-serif;
 }
 
 .main-banner .bg-overlay {
@@ -1586,7 +1586,7 @@ button,
 .main-banner .heading {
   margin: 0 0 5px;
   letter-spacing: -4px;
-  font: 100px/120px "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 800 100px/120px "Open Sans", sans-serif;
 }
 
 .main-banner .heading.add {
@@ -1764,7 +1764,7 @@ button,
 .main-text {
   display: block;
   letter-spacing: -1.2px;
-  font: 28px/38px "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 28px/38px "Open Sans", sans-serif;
 }
 
 /*------------------------------------------------------------------
@@ -1790,7 +1790,7 @@ button,
   color: #363636;
   margin: 0 0 11px;
   letter-spacing: -0.8px;
-  font: 500 18px/38px "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 600 18px/38px "Open Sans", sans-serif;
 }
 
 .icon-box .title.large {
@@ -1974,7 +1974,7 @@ button,
   color: #fff;
   margin: 0 0 41px;
   letter-spacing: -1.5px;
-  font: 500 36px/47px "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 500 36px/47px "Open Sans", sans-serif;
 }
 
 .t-section blockquote {
@@ -2128,7 +2128,7 @@ button,
 	19. Page footer styles   /  #footer
 -------------------------------------------------------------------*/
 #footer {
-  color: #f5f5f5;
+  color: #191562;
   font-size: 14px;
   line-height: 24px;
 }
