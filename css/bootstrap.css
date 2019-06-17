@@ -1549,11 +1549,14 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 34px;
+  font-weight: bolder;
+  letter-spacing: 1px;
   color: #AA58C6;
 }
 
 h3, .h3 {
   font-size: 28px;
+  color: #78F1A8;
 }
 
 h4, .h4 {
