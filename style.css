@@ -632,7 +632,7 @@ img.aligncenter {
 	2. Global style classes
 -------------------------------------------------------------------*/
 .bg-grey {
-  background-color: #fafafa;
+  background-color: #EDEDEE;
 }
 
 .bg-white {
@@ -721,7 +721,7 @@ img.aligncenter {
 }
 
 .pad-top-lg {
-  padding-top: 90px !important;
+  padding-top: 50px !important;
 }
 
 .mar-bottom-xs {
@@ -729,7 +729,7 @@ img.aligncenter {
 }
 
 .mar-bottom-sm {
-  margin-bottom: 60px !important;
+  margin-bottom: 10px !important;
 }
 
 .mar-bottom-md {
@@ -749,11 +749,11 @@ img.aligncenter {
 }
 
 .mar-bottom-lg {
-  margin-bottom: 90px !important;
+  margin-bottom: 50px !important;
 }
 
 .pad-bottom-lg {
-  padding-bottom: 90px !important;
+  padding-bottom: 50px !important;
 }
 
 body {
@@ -982,8 +982,8 @@ button,
 
 .main-heading .heading {
   color: #191562;
-  margin: 0 0 23px;
-  letter-spacing: -1.5px;
+  margin: 10 0 23px;
+/*  letter-spacing: -1.5px;*/
   font: 800 36px/47px "Open Sans", sans-serif;
 }
 
@@ -1536,7 +1536,7 @@ button,
   z-index: 1;
   color: #fff;
   position: relative;
-  font: 400 20px/34px "Open Sans", sans-serif;
+  font: 400 28px/34px "Open Sans", sans-serif;
 }
 
 .main-banner .bg-overlay {
@@ -1642,7 +1642,7 @@ button,
 }
 
 .main-banner p {
-  margin: 0 0 55px;
+  margin: 40px 0 55px;
 }
 
 .main-banner .btn-bottom {
@@ -1972,7 +1972,7 @@ button,
 
 .t-section .heading {
   color: #fff;
-  margin: 0 0 41px;
+  margin: 10 0 41px;
   letter-spacing: -1.5px;
   font: 500 36px/47px "Open Sans", sans-serif;
 }
@@ -2565,7 +2565,7 @@ button,
 
 .team-box .heading {
   margin: 0;
-  color: #363636;
+/*  color: #363636;*/
   letter-spacing: -0.8px;
   font: 600 20px/34px "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
