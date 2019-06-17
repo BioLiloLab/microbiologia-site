@@ -122,7 +122,7 @@
 		position: fixed;
 		padding: 12px 0 0;
 		line-height: 25px;
-		background: #282828;
+		background: #EDEDEE;
 		margin-right: -260px;
 		-webkit-transition: all ease .3s;
 		transition: all ease .3s;
@@ -346,4 +346,4 @@
 		line-height: 20px;
 	}
 }
-
+
