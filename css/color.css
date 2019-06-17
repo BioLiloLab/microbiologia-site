@@ -17,10 +17,6 @@ a,
 .cart-block .close:hover,
 .shop-pagination a:hover,
 .wedo-section .play:hover,
-#footer .f-bottom a:hover,
-.subscribe-form .btn:hover,
-.isotop-filter li.active a,
-.shop-pagination .active a,
 #header.nospace #nav a:hover,
 .product-box .heading a:hover,
 .drop-sub .mt-h-title a:hover,
@@ -31,6 +27,13 @@ a,
 .product-tabsec .review-list .reply,
 #header.sticky .header-holder #nav a:hover,
 #header.sticky .header-holder #nav li:hover > a,
+.main-color {
+  color: #78F1A8;
+}
+#footer .f-bottom a:hover,
+.subscribe-form .btn:hover,
+.isotop-filter li.active a,
+.shop-pagination .active a,
 .main-color {
   color: #AA58C6;
   /*color: red;*/
