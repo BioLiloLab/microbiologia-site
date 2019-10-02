@@ -1556,15 +1556,18 @@ h2, .h2 {
 
 h3, .h3 {
   font-weight: bolder;
-  color: #78F1A8;
+  color: #191562;
 }
 
 h4, .h4 {
-  font-size: 20px;
+  font-weight: bolder;
+/*  font-size: 20px;*/
+  color: #78F1A8;
 }
 
 h5, .h5 {
-  font-size: 16px;
+/*  font-size: 16px;*/
+  color: #E214FC;
 }
 
 h6, .h6 {
